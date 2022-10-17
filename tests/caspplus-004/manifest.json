@@ -1,0 +1,65 @@
+{
+    "v":1,
+    "languages":["en"],
+    "format":"comptia",
+    "org":"CompTIA",
+    "name":"CASP+",
+    "description":{
+        "en":""
+    },
+    "version":"CAS-004",
+    "other":["casp+","casp plus","advanced security practitioner"],
+    "repo":"github.com/test-by-step/comptia-tests",
+    "test":"caspplus-004",
+    "domains":[
+        {
+            "number": 1.0,
+            "title":{
+                "en":"Security Architecture"
+            },
+            "description":{
+                "en":""
+            },
+            "sections":[
+                {
+                    "number":1.1,
+                    "title":null,
+                    "description":{
+                        "en":"Given a scenario, analyze the security requirements and objectives to ensure an appropriate, secure network architecture for a new or existing network.",
+                        "de":""
+                    },
+                    "categories":[
+                        {
+                            "title":{
+                                "en":"Services"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "topics":[
+                                ["load-balancer","Load Balancer"],
+                                ["ids","Intrusion Detection System (IDS), NIDS, HIDS, WIDS"],
+                                ["ips","Intrusion Prevention System (IPS), NIPS, HIPS, WIPS"],
+                                ["waf","Web Application Firewall"],
+                                ["nac","Network Access Control"],
+                                ["vpn","Virtual Private Network"],
+                                ["dnssec","Domain Name System Security Extensions (DNSSEC)"],
+                                ["firewall","Firewall/unified threat management (UTM)/next-generation firewall (NGFW)"],
+                                ["nat","Network Access Translation (NAT) Gateway"],
+                                ["internet-gateway","Internet Gateway"],
+                                ["forward-proxy","Forward/transparent proxy"],
+                                ["reverse-proxy","Reverse proxy"],
+                                ["ddos-protection","Distributed Denial-of-Service (DDoS) Protection"],
+                                ["router","Routers"],
+                                ["mail-security","Mail Security"]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "quizzes":[
+        "caspplus-004-001"
+    ]
+}

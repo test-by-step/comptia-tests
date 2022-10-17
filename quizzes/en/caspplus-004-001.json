@@ -1,0 +1,56 @@
+{
+    "name": "CompTIA CASP+ Quiz 001",
+    "description":"",
+    "questions":[
+        {
+            "question":"You work for a company that has developed an application that relies on back end processing provided by microservies served from a REST endpoint. The CISO is concerned about unauthorized access to the service functions. What tool would you recommend to best address the CISO's concern?",
+            "answers":[
+                {
+                    "answer":"API Gateway",
+                    "correct":true,
+                    "explanation":"API Gateways provide a mechanism to route RESTful HTTP requests to the back end service. API gateways can also check for authorization credentials in HTTP headers (such as API key or JWT authorization or identification token) before allowing access to the requested service."
+                },
+                {
+                    "answer":"Web Application Firewall",
+                    "correct":false,
+                    "explanation":"While web application firewalls could potentially protect against malicious access, it is not generally associated with authentication or authorization. It is also not the best fit in the available answers for microservices - WAFs generally are more associated with entire apps, rather than individual services or endpoints."
+                },
+                {
+                    "answer":"Next Generation Firewall",
+                    "correct":false,
+                    "explanation":"Much like web application firewalls, next generation firewalls aren't particularly concerned with services and routing services to endpoints. They are also not good for authentication or authorization. Moreover, they are typically best suited for protecting networks and network segments, rather than endpoints and services."
+                },
+                {
+                    "answer":"Network Access Control",
+                    "correct":false,
+                    "explanation":"Network Access Control authorizes end-user device access to a private or corpate network, not access to services or microservices, RESTful or otherwise."
+                }
+            ]
+        },
+        {
+            "question":"A client for your cybersecurity consulting company would like a tool that will monitor their growing business network for malicious activity and notify key executives to potential intrusions without interfering with network activity. Which tool would best fit the clients needs?",
+            "answers":[
+                {
+                    "answer":"IPS",
+                    "correct":false,
+                    "explanation":"Intrusion Prevention Systems can provide all the functions of the Intrusion Detection Systems, however since IDS is another available answer and the question explicitly states that the device should not interfere with network activity, this is not the best answer."
+                },
+                {
+                    "answer":"Span Port",
+                    "correct":false,
+                    "explanation":"It is very probable that you will want to use a span port in conjunction with an IDS in order to copy all traffic for analysis without impeding network operation. However, a span port is not a tool and it cannot, generally speaking, create notifications itself."
+                },
+                {
+                    "answer":"IDS",
+                    "correct":true,
+                    "explanation":""
+                },
+                {
+                    "answer":"SIEM",
+                    "correct":false,
+                    "explanation":"A SIEM's job is to consolidate and correlate incident and event logs. There is an argument to be made that this could be a valid answer in some cases, however the SIEM itself is not going to detect suspcious activity and is therefor not as good of an answer."
+                }
+            ]
+        }
+    ]
+}

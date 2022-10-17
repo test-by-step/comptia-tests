@@ -1,0 +1,39 @@
+{
+    "org":"CompTIA",
+    "description":{
+        "en":""
+    },
+    "tests":[
+        
+        {
+            "name":"CASP+",
+            "description":{
+                "en":""
+            },
+            "version":"CAS-004",
+            "other":["casp+","casp plus","advanced security practitioner"],
+            "repo":"github.com/test-by-step/comptia-tests",
+            "test":"caspplus-004"
+        },
+        {
+            "name":"Security+",
+            "description":{
+                "en":""
+            },
+            "version":"SY0-601",
+            "other":["sec+","sec plus","security plus"],
+            "repo":"github.com/test-by-step/comptia-tests",
+            "test":"secplus-601"
+        },
+        {
+            "name":"Network+",
+            "description":{
+                "en":""
+            },
+            "version":"N10-008",
+            "other":["net+","net plus","network plus"],
+            "repo":"github.com/test-by-step/comptia-tests",
+            "test":"netplus-008"
+        }
+    ]
+}
