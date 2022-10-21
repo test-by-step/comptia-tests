@@ -36,33 +36,67 @@
                             "description":{
                                 "en":""
                             },
+                            "type":"tech",
                             "topics":[
+                                "load-balancer",
+                                "ids",
+                                "ips",
+                                "waf",
+                                "nac",
+                                "vpn",
+                                "dnssec",
+                                "firewall",
+                                "nat",
+                                "internet-gateway",
+                                "forward-proxy",
+                                "reverse-proxy",
+                                "ddos-protection",
+                                "router",
+                                "mail-security",
+                                "api-gateway",
                                 {
-                                    "topic":"tech",
-                                    "subjects":[
-                                        "load-balancer",
-                                        "ids",
-                                        "ips",
-                                        "waf",
-                                        "nac",
-                                        "vpn",
-                                        "dnssec",
-                                        "firewall",
-                                        "nat",
-                                        "internet-gateway",
-                                        "forward-proxy",
-                                        "reverse-proxy",
-                                        "ddos-protection",
-                                        "router",
-                                        "mail-security",
-                                        "api-gateway",
+                                    "topics":[
                                         "traffic-mirroring",
                                         "span-port",
                                         "port-mirroring",
                                         "vpc",
                                         "network-tap"
                                     ]
+                                },
+                                {
+                                    "topics":[
+                                        "sensors",
+                                        "siem",
+                                        "snmp-traps",
+                                        "netflow",
+                                        "dlp",
+                                        "antivirus"
+                                    ]
                                 }
+                            ]
+                        },
+                        {
+                            "title":{
+                                "en":"Segmentation"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "segmentation",
+                                "microsegmentation",
+                                "lan",
+                                "vlan",
+                                "jumpbox",
+                                "screened-subnet",
+                                "data-zones",
+                                "staging-environment",
+                                "vpc",
+                                "availability-zone",
+                                ["acl","NAC Lists"],
+                                ["security-groups","Policy / Security Groups"],
+                                "regions"
                             ]
                         }
                     ]
