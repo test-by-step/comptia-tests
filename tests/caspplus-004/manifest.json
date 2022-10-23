@@ -96,7 +96,25 @@
                                 "availability-zone",
                                 ["acl","NAC Lists"],
                                 ["security-groups","Policy / Security Groups"],
-                                "regions"
+                                "regions",
+                                "acl",
+                                "p2p",
+                                "air-gap"
+                            ]
+                        },
+                        {
+                            "title":{
+                                "en":"Deperimeterization/zero trust"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "deperimiterization",
+                                "zero-trust",
+                                "cloud",
+                                "remote-work"
                             ]
                         }
                     ]
