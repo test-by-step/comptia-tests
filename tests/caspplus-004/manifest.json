@@ -114,7 +114,22 @@
                                 "deperimiterization",
                                 "zero-trust",
                                 "cloud",
-                                "remote-work"
+                                "remote-work",
+                                "mobile",
+                                "outsourcing",
+                                ["wireless","Wireless/Radio frequency (RF) networks"]
+                            ]
+                        },
+                        {
+                            "title":{
+                                "en":"Merging of networks from various organizations"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "peering"
                             ]
                         }
                     ]
