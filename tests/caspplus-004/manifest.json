@@ -133,7 +133,22 @@
                                 "cloud-premises",
                                 "data-sensitivity-levels",
                                 "mergers",
-                                ["cross-domain","Cross domain"]
+                                ["cross-domain","Cross domain"],
+                                ["federation","Federation"],
+                                "directory-services"
+                            ]
+                        },
+                        {
+                            "title":{
+                                "en":"Software Defined Networking"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "sdn",
+                                "hybrid-sdn"
                             ]
                         }
                     ]
