@@ -129,7 +129,11 @@
                             },
                             "type":"tech",
                             "topics":[
-                                "peering"
+                                "peering",
+                                "cloud-premises",
+                                "data-sensitivity-levels",
+                                "mergers",
+                                ["cross-domain","Cross domain"]
                             ]
                         }
                     ]
