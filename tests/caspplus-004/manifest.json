@@ -148,7 +148,32 @@
                             "type":"tech",
                             "topics":[
                                 "sdn",
-                                "hybrid-sdn"
+                                "hybrid-sdn",
+                                "sdn-overlay"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "number":1.2,
+                    "title":null,
+                    "description":{
+                        "en":"Given a scenario, analyze the organizational requirements to determine the proper infrastructure security design.",
+                        "de":""
+                    },
+                    "categories":[
+                        {
+                            "title":{
+                                "en":"Scalability"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "scalability",
+                                "vertical-scalability",
+                                "horizontal-scalability"
                             ]
                         }
                     ]
