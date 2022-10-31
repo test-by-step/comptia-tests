@@ -175,6 +175,25 @@
                                 "vertical-scalability",
                                 "horizontal-scalability"
                             ]
+                        },
+                        {
+                            "title":{
+                                "en":"Resiliency"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "resiliency",
+                                "ha",
+                                "diversity-heterogeneity",
+                                "coa-orchestration",
+                                "distributed-allocation",
+                                "redundancy",
+                                "replication",
+                                "clustering"
+                            ]
                         }
                     ]
                 }
