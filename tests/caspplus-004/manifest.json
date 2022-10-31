@@ -28,16 +28,11 @@
                         "en":"Given a scenario, analyze the security requirements and objectives to ensure an appropriate, secure network architecture for a new or existing network.",
                         "de":""
                     },
-                    "categories":[
+                    "type":"tech",
+                    "topics":[
                         {
-                            "title":{
-                                "en":"Services"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
+                                "services",
                                 "load-balancer",
                                 "ids",
                                 "ips",
@@ -76,13 +71,6 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Segmentation"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "segmentation",
                                 "microsegmentation",
@@ -103,13 +91,6 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Deperimeterization/zero trust"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "deperimiterization",
                                 "zero-trust",
@@ -121,14 +102,8 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Merging of networks from various organizations"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
+                                [null,"Merging of networks from various organizations"],
                                 "peering",
                                 "cloud-premises",
                                 "data-sensitivity-levels",
@@ -139,13 +114,6 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Software Defined Networking"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "sdn",
                                 "hybrid-sdn",
@@ -161,15 +129,9 @@
                         "en":"Given a scenario, analyze the organizational requirements to determine the proper infrastructure security design.",
                         "de":""
                     },
-                    "categories":[
+                    "type":"tech",
+                    "topics":[
                         {
-                            "title":{
-                                "en":"Scalability"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "scalability",
                                 "vertical-scalability",
@@ -177,13 +139,6 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Resiliency"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "resiliency",
                                 "ha",
@@ -196,13 +151,6 @@
                             ]
                         },
                         {
-                            "title":{
-                                "en":"Automation"
-                            },
-                            "description":{
-                                "en":""
-                            },
-                            "type":"tech",
                             "topics":[
                                 "autoscaling",
                                 "soar",
