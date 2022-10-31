@@ -194,6 +194,20 @@
                                 "replication",
                                 "clustering"
                             ]
+                        },
+                        {
+                            "title":{
+                                "en":"Automation"
+                            },
+                            "description":{
+                                "en":""
+                            },
+                            "type":"tech",
+                            "topics":[
+                                "autoscaling",
+                                "soar",
+                                "bootstrapping"
+                            ]
                         }
                     ]
                 }
