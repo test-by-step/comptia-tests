@@ -181,7 +181,11 @@
                                         ["secure-design-patterns"," Secure design patterns/types of web technologies"],
                                         "storage-design-patterns"
                                     ]
-                                }
+                                },
+                                "container-apis",
+                                "secure-coding",
+                                "application-vetting",
+                                "api-management"
                             ]
                         }
                     ]
