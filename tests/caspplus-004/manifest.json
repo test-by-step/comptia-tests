@@ -32,7 +32,7 @@
                     "topics":[
                         {
                             "topics":[
-                                "services",
+                                [null, "Services"],
                                 "load-balancer",
                                 "ids",
                                 "ips",
@@ -156,7 +156,12 @@
                                 "soar",
                                 "bootstrapping"
                             ]
-                        }
+                        },
+                        "performance",
+                        "containerization",
+                        "virtualization",
+                        "cdn",
+                        "caching"
                     ]
                 }
             ]
