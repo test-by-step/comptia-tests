@@ -163,6 +163,28 @@
                         "cdn",
                         "caching"
                     ]
+                },
+                {
+                    "number":1.3,
+                    "title":null,
+                    "description":{
+                        "en":"Given a scenario, integrate software applications securely into an enterprise architecture.",
+                        "de":""
+                    },
+                    "type":"tech",
+                    "topics":[
+                        {
+                            "topics":[
+                                ["baseline","Baseline and templates"],
+                                {
+                                    "topics":[
+                                        ["secure-design-patterns"," Secure design patterns/types of web technologies"],
+                                        "storage-design-patterns"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
