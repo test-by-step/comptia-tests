@@ -185,7 +185,15 @@
                                 "container-apis",
                                 "secure-coding",
                                 "application-vetting",
-                                "api-management"
+                                "api-management",
+                                "middleware"
+                            ]
+                        },
+                        {
+                            "topics":[
+                                "software-assurance",
+                                ["sandbox","Sandboxing/development environment"],
+                                ["third-party-libraries","Validating Third Party Libraries"]
                             ]
                         }
                     ]
