@@ -193,7 +193,9 @@
                             "topics":[
                                 "software-assurance",
                                 ["sandbox","Sandboxing/development environment"],
-                                ["third-party-libraries","Validating Third Party Libraries"]
+                                ["third-party-libraries","Validating Third Party Libraries"],
+                                ["devops","Defined DevOps pipeline"],
+                                "code-signing"
                             ]
                         }
                     ]
