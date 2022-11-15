@@ -195,7 +195,17 @@
                                 ["sandbox","Sandboxing/development environment"],
                                 ["third-party-libraries","Validating Third Party Libraries"],
                                 ["devops","Defined DevOps pipeline"],
-                                "code-signing"
+                                "code-signing",
+                                ["ast"," Interactive application security testing (IAST) vs. dynamic application security testing (DAST) vs. static application security testing (SAST)"]
+                            ]
+                        },
+                        {
+                            "topics":[
+                                [null,"Considerations of integrating enterprise applications"],
+                                "crm",
+                                "erp",
+                                "cmdb",
+                                "cms"
                             ]
                         }
                     ]
