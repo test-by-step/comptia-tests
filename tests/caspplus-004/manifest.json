@@ -205,7 +205,43 @@
                                 "crm",
                                 "erp",
                                 "cmdb",
-                                "cms"
+                                "cms",
+                                {
+                                    "topics":[
+                                        [null,"Integration enablers"],
+                                        "directory-services",
+                                        "dns",
+                                        "soa",
+                                        "esb"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "topics":[
+                                [null, "Integrating Security into development life cycle"],
+                                "sdlc-formal-methods",
+                                "ssdlc-requirements",
+                                "ssdlc-fielding",
+                                "ssdlc-upgrades",
+                                "ssdlc-displosal",
+                                {
+                                    "topics":[
+                                        [null,"Testing"],
+                                        "regression-testing",
+                                        "unit-testing",
+                                        "integration-testing"
+                                    ]
+                                },
+                                {
+                                    "topics":[
+                                        [null, "Development Approaches"],
+                                        "secdevops",
+                                        "agile",
+                                        "waterfall",
+                                        "spiral"
+                                    ]
+                                }
                             ]
                         }
                     ]
