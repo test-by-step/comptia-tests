@@ -239,12 +239,31 @@
                                         "secdevops",
                                         "agile",
                                         "waterfall",
-                                        "spiral"
+                                        "spiral",
+                                        "versioning",
+                                        ["cicd", "Continous Integration / Continuous Delivery (CI/CD) pipeline"]
+                                    ]
+                                },
+                                {
+                                    "topics":[
+                                        [null,"Best Practices"],
+                                        ["owasp-best-practices","Open Web Application Security Project (OWASP)"],
+                                        "http-headers"
                                     ]
                                 }
                             ]
                         }
                     ]
+                },
+                {
+                    "number":1.4,
+                    "title":null,
+                    "description":{
+                        "en":"Given a scenario, implement data security techniques for securing enterprise architecture.",
+                        "de":""
+                    },
+                    "type":"tech",
+                    "topics":[]
                 }
             ]
         }
