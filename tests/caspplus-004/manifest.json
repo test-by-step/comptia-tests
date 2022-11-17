@@ -263,7 +263,27 @@
                         "de":""
                     },
                     "type":"tech",
-                    "topics":[]
+                    "topics":[
+                        {
+                            "topics":[
+                                "dlp",
+                                ["external-media-blocking", "Blocking Use of External Media"],
+                                "print-blocking",
+                                "rdp-blocking",
+                                "clipboard-privacy",
+                                "vdi-restrictions"
+                            ]
+                        },
+                        {
+                            "topics":[
+                                "data-loss-detection",
+                                "watermarking",
+                                "drm",
+                                ["break-and-inspect","Network traffic decryption/deep packet inspection"],
+                                "dlp-network-traffic-analysis"
+                            ]
+                        }
+                    ]
                 }
             ]
         }
