@@ -282,6 +282,11 @@
                                 ["break-and-inspect","Network traffic decryption/deep packet inspection"],
                                 "dlp-network-traffic-analysis"
                             ]
+                        },
+                        {
+                            "topics":[
+                                ["data-classification","Data classification, labeling, and tagging"]
+                            ]
                         }
                     ]
                 }
